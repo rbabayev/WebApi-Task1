@@ -1,0 +1,17 @@
+﻿@model EmployeeListViewModel
+
+
+<section>
+    @foreach(var item in Model.Employees)
+    {
+        <section>
+            <h2>Name : @item.Name</h2>
+            <h2>Description : @item.Description</h2>
+            <h2>Discount : @item.Discount</h2>
+
+            <a asp-controller="Employee" asp-action="Delete" asp-route-id="@item.Id">Delete Employee</a>
+            <a asp-controller="Employee" asp-action="Update" asp-route-id="@item.Id">Update Employee</a>
+        </section>
+    }
+</section>
+<a asp-controller="Employee" asp-action="Add">Add Employee</a>

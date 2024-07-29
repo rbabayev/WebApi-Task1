@@ -1,0 +1,92 @@
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.exe
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.deps.json
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.runtimeconfig.json
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.dll
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.Views.dll
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.Views.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.TagHelpers.input.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.TagHelpers.output.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Employee\Add.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Employee\Employee.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.Views.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\scopedcss\bundle\ASP-Task2.styles.css
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\ASP-Task2.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\ASP-Task2.StaticWebAssets.Pack.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.ASP-Task2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.build.ASP-Task2.props
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASP-Task2.props
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASP-Task2.props
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.dll
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\refint\ASP-Task2.dll
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ref\ASP-Task2.dll
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.csproj.CopyComplete
+C:\Users\Admin\Desktop\ASP Tasks\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\appsettings.json
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.exe
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.deps.json
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.runtimeconfig.json
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.runtimeconfig.dev.json
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.dll
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.pdb
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.Views.dll
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\bin\Debug\net5.0\ASP-Task2.Views.pdb
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.AssemblyInfoInputs.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.AssemblyInfo.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorAssemblyInfo.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorAssemblyInfo.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.TagHelpers.input.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.TagHelpers.output.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorCoreGenerate.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Employee\Add.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Employee\Employee.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorTargetAssemblyInfo.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.RazorTargetAssemblyInfo.cs
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.Views.pdb
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\scopedcss\bundle\ASP-Task2.styles.css
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\ASP-Task2.StaticWebAssets.Manifest.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\ASP-Task2.StaticWebAssets.Pack.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.ASP-Task2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.build.ASP-Task2.props
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASP-Task2.props
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASP-Task2.props
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.dll
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\refint\ASP-Task2.dll
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.pdb
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.genruntimeconfig.cache
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ref\ASP-Task2.dll
+C:\Users\Babay_wv11\Desktop\ASP-Task2\ASP-Task2\obj\Debug\net5.0\ASP-Task2.csproj.Up2Date
