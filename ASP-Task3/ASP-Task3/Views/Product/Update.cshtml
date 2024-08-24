@@ -1,0 +1,29 @@
+﻿@model ProductAddViewModel
+
+<section>
+    <form asp-controller="Product" asp-action="Edit" asp-route-id="@Model.Product.Id">
+        <section>
+            <label asp-for="Product.Name"></label>
+            <input asp-for="Product.Name" />
+        </section>
+
+        <section>
+            <label asp-for="Product.Description"></label>
+            <input asp-for="Product.Description" />
+        </section>
+
+        <section>
+            <label asp-for="Product.ImageLink"></label>
+            <input asp-for="Product.ImageLink" />
+        </section>
+
+        <section>
+            <label asp-for="Product.Price"></label>
+            <input asp-for="Product.Price" />
+        </section>
+
+        <button type="submit">Add Product</button>
+    </form>
+</section>
+
+
